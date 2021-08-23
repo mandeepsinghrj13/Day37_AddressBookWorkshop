@@ -8,7 +8,7 @@ public class ContactItems extends AddressBookMain {
     String city;
     String state;
     int zip;
-    int phoneNumber;
+    long phoneNumber;
     String email;
 
     @Override
